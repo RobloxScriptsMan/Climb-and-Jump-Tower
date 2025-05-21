@@ -2,7 +2,7 @@
 
 Take your tower-climbing game to new heights with the **Climb and Jump Tower Script** — a powerful, keyless, and completely free tool crafted for maximum fun and rewards. Designed for seamless execution, this script unlocks a suite of automated boosts to give you the edge in every round. It's the ultimate game-changer for CAJT fans who want smooth wins and sweet loot!
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Climb-and-Jump-Tower/blob/main/climb%20and%20jump%20tower.png)
 
 ---
 
